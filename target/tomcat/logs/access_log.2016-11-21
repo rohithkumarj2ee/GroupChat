@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [21/Nov/2016:15:20:24 -0600] "GET /GroupChat/login HTTP/1.1" 200 1192 http-bio-8080-exec-1 197
+0:0:0:0:0:0:0:1 - - [21/Nov/2016:15:20:24 -0600] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [21/Nov/2016:15:20:43 -0600] "POST /login.do HTTP/1.1" 200 484 http-bio-8080-exec-4 1132
+0:0:0:0:0:0:0:1 - - [21/Nov/2016:15:49:42 -0600] "POST /login.do HTTP/1.1" 200 484 http-bio-8080-exec-1 1202

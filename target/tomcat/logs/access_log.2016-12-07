@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [07/Dec/2016:14:43:51 -0600] "GET /GroupChat/login HTTP/1.1" 200 1192 http-bio-8080-exec-1 314
+0:0:0:0:0:0:0:1 - - [07/Dec/2016:14:43:54 -0600] "POST /login.do HTTP/1.1" 200 2021 http-bio-8080-exec-3 303
+0:0:0:0:0:0:0:1 - - [07/Dec/2016:14:43:54 -0600] "GET /chat HTTP/1.1" 404 959 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [07/Dec/2016:15:35:49 -0600] "GET /GroupChat/login HTTP/1.1" 200 1192 http-bio-8080-exec-1 83
